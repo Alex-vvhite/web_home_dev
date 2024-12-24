@@ -1,0 +1,14 @@
+a{
+    text-decoration: none;
+}
+.hdr{
+    color: white !important;
+    font-family: "PT Serif", serif !important;
+    font-weight: bold;
+}
+a:visited {
+    color: white !important;
+}
+.image_me{
+    border-radius: 20px;
+}
